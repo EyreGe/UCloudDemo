@@ -1,0 +1,1 @@
+include ':app', ':libfacepp', ':ucloud-faceu', ':libopenglfilter'

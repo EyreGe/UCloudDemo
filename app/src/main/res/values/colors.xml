@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#2196F3</color>
+    <color name="color_progress">#2196F3</color>
+    <color name="dark_blue">#1976D2</color>
+    <color name="accent_blue">#448AFF</color>
+    <color name="color_white_alpha_half">#7fffffff</color>
+    <color name="color_white">#ffeeeeee</color>
+    <color name="color_white_alpha_alpha40">#66ffffff</color>
+    <color name="color_progress_bg">#26ffffff</color>
+    <color name="color_secondprogress_gray">#ff9a9a9a</color>
+    <color name="color_transparent">#000000</color>
+    <color name="color_setting_menu_bg">#A0000000</color>
+    <color name="color_setting_menu_content_bg">#B0000000</color>
+
+    <color name="transparent_dark">#77000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="gray">#666666</color>
+
+</resources>

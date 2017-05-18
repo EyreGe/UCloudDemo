@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UCloudDemo.iml" filepath="$PROJECT_DIR$/UCloudDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libfacepp/libfacepp.iml" filepath="$PROJECT_DIR$/libfacepp/libfacepp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libopenglfilter/libopenglfilter.iml" filepath="$PROJECT_DIR$/libopenglfilter/libopenglfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucloud-faceu/ucloud-faceu.iml" filepath="$PROJECT_DIR$/ucloud-faceu/ucloud-faceu.iml" />
+    </modules>
+  </component>
+</project>
